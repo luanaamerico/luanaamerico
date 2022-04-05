@@ -1,0 +1,3 @@
+- 👋 ola, meu nome e luana americo de oliveira
+- eu sou estudante da materia pensamento computacional no colegio polivalente de londrina
+- meu interesse e desenvolver e salvar meus projetos 
